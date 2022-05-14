@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, yo soy Nicole 😊️</h1>
-<h3 align="center">Soy una Frontend Developer JR autodidacta 💪️</h3>
+### Hola 👋, yo soy Nicole 😊️
+#### Soy una Frontend Developer JR autodidacta 💪️
 
 
 <h3 align="left">Connect with me:</h3>
