@@ -3,15 +3,15 @@
 Un poco sobre mí:
 
 - 😎️ Soy frontend developer autodidacta Jr 💪️
-- 👩‍💻️ Actualmente trabajo en (Fizzmod)[https://fizzmod.com/] 🇦🇷️ 
-- 📱️ Con mucho trabajo y amor conseguí lanzar (con algo de ayuda 🤝️ de un dev backend ) mi primer aplicación mobile que ya se encuentra productiva en Google Play! Se llama Swappy y puedes conocerla (aquí)[https://play.google.com/store/apps/details?id=com.aivenweb.swappy]
+- 👩‍💻️ Actualmente trabajo en [Fizzmod](https://fizzmod.com/) 🇦🇷️ 
+- 📱️ Con mucho trabajo y amor conseguí lanzar (con algo de ayuda 🤝️ de un dev backend ) mi primer aplicación mobile que ya se encuentra productiva en Google Play! Se llama Swappy y puedes conocerla [aquí](https://play.google.com/store/apps/details?id=com.aivenweb.swappy)
 - 🤓️ Siempre que tengo un tiempo libre me gusta aprender sobre comunicación no verbal y oratoria
 - 💆‍♀️️ Me gusta ver series y películas para desejar la mente, entre mis favoritos están los zombies 🧟️, vampiros 🧛‍♀️️ y superheroes de Marvel 💪️
 - 😝️ Fun Fact! Solía ser estudiante de psicología 📚️
 
 #### Como comunicarte conmigo: 
-- 💼️ (LinkedIn)[https://www.linkedin.com/in/nicoletevez/]
-- 🐦️ Twitter: (@NicoleTevez1)[https://twitter.com/NicoleTevez1]
+- 💼️ [LinkedIn](https://www.linkedin.com/in/nicoletevez/)
+- 🐦️ Twitter: [@NicoleTevez1](https://twitter.com/NicoleTevez1)
 - 📬️ Email: nicole.tevez.97@gmail.com
 
 
