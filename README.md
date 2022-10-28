@@ -2,7 +2,7 @@
 
 Un poco sobre mí:
 
-- 😎️ Soy frontend developer Jr 💪️
+- 😎️ Soy React Developer Jr 💪️ acá te dejo mi [portfolio](https://naniitevez.github.io/) para que veas mis últimos trabajos 💕️
 - 👩‍💻️ Actualmente trabajo en [Fizzmod](https://fizzmod.com/) 🇦🇷️ 
 - 📱️ Con mucho trabajo y amor conseguí lanzar (con algo de ayuda 🤝️ de un dev backend [@lauchacarro](https://github.com/lauchacarro)) mi primer aplicación mobile que ya se encuentra productiva en Google Play! Se llama Swappy y puedes conocerla [aquí](https://play.google.com/store/apps/details?id=com.aivenweb.swappy)
 - 🤓️ Siempre que tengo un tiempo libre me gusta aprender sobre comunicación no verbal y oratoria, todo lo relacionado a la comunicación me encanta.
