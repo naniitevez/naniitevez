@@ -1,3 +1,4 @@
+## Hola, yo soy Nicole 👋🏻
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -33,5 +34,5 @@
 <p align="center">
 <a href="https://linkedin.com/in/nicoletevez"><img src="https://img.shields.io/badge/-Nicole%20Tevez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:nicole.tevez.97@gmail.com"><img src="https://img.shields.io/badge/-nicole.tevez.97@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/naniitevez"><img src="https://img.shields.io/badge/-naniitevez-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/naniitevez"><img src="https://img.shields.io/badge/-naniitevez-00acee?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
