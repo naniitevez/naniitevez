@@ -1,6 +1,6 @@
 ## Hola, yo soy Nicole 👋🏻
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mi
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
@@ -11,7 +11,7 @@
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
 
-### Languages & Technologies
+### Lenguajes & Tecnologías
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -31,7 +31,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p>
 <a href="https://linkedin.com/in/nicoletevez"><img src="https://img.shields.io/badge/-Nicole%20Tevez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:nicole.tevez.97@gmail.com"><img src="https://img.shields.io/badge/-nicole.tevez.97@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/naniitevez"><img src="https://img.shields.io/badge/-naniitevez-00acee?style=flat&logo=Twitter&logoColor=white"/></a>
