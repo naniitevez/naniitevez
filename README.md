@@ -1,7 +1,7 @@
 ## Hola, yo soy Nicole 👋🏻😉
 
 ### 👩🏻‍💻 &nbsp;Sobre mi
-
+<!--
 👩🏻‍💻 &nbsp;Soy desarrolladora web hace aproximadamente 2 años.\
 🎓 &nbsp;.Blablabla \
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
@@ -9,6 +9,7 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+-->
 
 
 ### Lenguajes & Tecnologías
