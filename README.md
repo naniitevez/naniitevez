@@ -9,7 +9,7 @@ En 2020 cuando tomé la decisión de dejar la carrera de psicología y adentrarm
 * 🌍  Argentina
 * 🖥️  Puedes ver más sobre mí en [mi portfolio](http://naniitevez.github.io)
 * ✉️  Puedes escribirme a [nicole.tevez.97@gmail.com](mailto:nicole.tevez.97@gmail.com)
-* 🚀  Soy parte de la organización de una comunidad de programación llamada [React en Buenos Aires](http://reactbuenosaires.com.ar)
+* 🚀  Soy parte de la organización de la comunidad de programación [React en Buenos Aires](http://reactbuenosaires.com.ar)
   
 
 ### Socials
