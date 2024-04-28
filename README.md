@@ -10,15 +10,16 @@ En 2020 cuando tomé la decisión de dejar la carrera de psicología y adentrarm
 * 🖥️  Puedes ver más sobre mí en [mi portfolio](http://naniitevez.github.io)
 * ✉️  Puedes escribirme a [nicole.tevez.97@gmail.com](mailto:nicole.tevez.97@gmail.com)
 * 🚀  Soy parte de la organización de la comunidad de programación [React en Buenos Aires](http://reactbuenosaires.com.ar)
-  
 
-  
+
+    
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/naniitevez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nicoletevez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 
-  
+
+      
 ### Skills
 
 Estas son alguna de las tecnologías con las que he trabajado, hasta ahora!
@@ -29,7 +30,7 @@ Estas son alguna de las tecnologías con las que he trabajado, hasta ahora!
 
 
 
-  
+      
 ### Badges
 
 <b>My GitHub Stats</b>
