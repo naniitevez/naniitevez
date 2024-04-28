@@ -18,7 +18,6 @@ En 2020 cuando tomé la decisión de dejar la carrera de psicología y adentrarm
 
 
 ### Skills
-----------------------------------------
 
 Estas son alguna de las tecnologías con las que he trabajado, hasta ahora!
 
